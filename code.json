@@ -5326,5 +5326,42 @@
             }
         ],
         "stickers": []
+    },
+    {
+        "timestamp": "2025-08-18T17:45:16.634000+00:00",
+        "author": "obs aimbot#0000",
+        "content": null,
+        "attachments": [],
+        "embeds": [
+            {
+                "footer": {
+                    "text": "OBS REGEDIT | AOB Converter"
+                },
+                "fields": [
+                    {
+                        "value": "`0xAA`",
+                        "name": "Read Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "`0xA6`",
+                        "name": "Write Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "```FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A5 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 28 85 18 9A 00 00 00 00 D0 A5 D0 99 A0 A5 D0 99 90 A6 D0 99 B8 A5 D0 99 10 A5 D0 99 A8 A6 D0 99 C0 A6 D0 99 40 A8 D0 99 28 A5 D0 99 F8 A4 D0 99 10 A5 D0 99 80 A4 D0 99 30 A6 D0 99 00 00 00 00 78 A6 D0 99 18 A6 D0 99 E8 A5 D0 99 48 A6 D0 99 00 A6 D0 99 60 A6 D0 99 00 00 00 00 60 89 27 9B 20 56 DE 8A 00 00 00 00 A8 DD 46 9A 20 2D F6 8A F0 1C 38 9C 00 00 00 00```",
+                        "name": "AoB Pattern",
+                        "inline": false
+                    }
+                ],
+                "flags": 0,
+                "color": 65280,
+                "timestamp": "2025-08-18T17:45:14.602129+00:00",
+                "type": "rich",
+                "description": "A new injection has been performed successfully!",
+                "title": "🎯 New AOB Injection"
+            }
+        ],
+        "stickers": []
     }
 ]
