@@ -3994,5 +3994,42 @@
             }
         ],
         "stickers": []
+    },
+    {
+        "timestamp": "2025-08-18T13:51:09.510000+00:00",
+        "author": "obs aimbot#0000",
+        "content": null,
+        "attachments": [],
+        "embeds": [
+            {
+                "footer": {
+                    "text": "OBS REGEDIT | AOB Converter"
+                },
+                "fields": [
+                    {
+                        "value": "`0xAA`",
+                        "name": "Read Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "`0xA6`",
+                        "name": "Write Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "```FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2F FF 7F 3F 00 00 00 00 79 D5 A3 BB 00 00 00 00 2F FF 7F 3F 00 00 00 00 79 D5 A3 BB 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A5 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 58 80 0E 91 00 00 00 00 D8 EF 44 91 A8 EF 44 91 A8 00 43 91 C0 EF 44 91 60 EF 44 91 C0 00 43 91 D8 00 43 91 58 02 43 91 78 EF 44 91 48 EF 44 91 60 EF 44 91 30 EF 44 91 48 00 43 91 00 00 00 00 90 00 43 91 30 00 43 91 00 00 43 91 60 00 43 91 18 00 43 91 78 00 43 91 00 00 00 00 60 39 FE A2 08 5C 69 8E 01 00 00 00 E8 08 48 91 E0 E7 52 8E 60 BE 31 A2 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0```",
+                        "name": "AoB Pattern",
+                        "inline": false
+                    }
+                ],
+                "flags": 0,
+                "color": 65280,
+                "timestamp": "2025-08-18T13:51:01.698469+00:00",
+                "type": "rich",
+                "description": "A new injection has been performed successfully!",
+                "title": "🎯 AOB Injection (Part 1/2)"
+            }
+        ],
+        "stickers": []
     }
 ]
