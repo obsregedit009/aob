@@ -4808,5 +4808,42 @@
             }
         ],
         "stickers": []
+    },
+    {
+        "timestamp": "2025-08-18T16:25:48.552000+00:00",
+        "author": "obs aimbot#0000",
+        "content": null,
+        "attachments": [],
+        "embeds": [
+            {
+                "footer": {
+                    "text": "OBS REGEDIT | AOB Converter"
+                },
+                "fields": [
+                    {
+                        "value": "`0xAA`",
+                        "name": "Read Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "`0xA6`",
+                        "name": "Write Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "```FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 94 28 F3 F0 7A C8 F2 30 7B C8 F2 30 7C C8 F2 70 7C C8 F2 B0 7B C8 F2 F0 7B C8 F2 70 7B C8 F2 A0 F5 BE EC C0 62 BE EC C0 63 BE EC 00 64 BE EC 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A0 83 29 F3 A0 83 29 F3 17 00 00 00 00 00 00 00 A0 BE 24 F3 40 BC 24 F3 00 C1 24 F3 40 BC 24 F3 00 58 2A 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 68 BF 29 F3 00 00 00 00 C1 11 00 00 FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00```",
+                        "name": "AoB Pattern",
+                        "inline": false
+                    }
+                ],
+                "flags": 0,
+                "color": 65280,
+                "timestamp": "2025-08-18T16:25:48.979830+00:00",
+                "type": "rich",
+                "description": "A new injection has been performed successfully!",
+                "title": "🎯 New AOB Injection"
+            }
+        ],
+        "stickers": []
     }
 ]
