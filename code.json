@@ -7657,5 +7657,42 @@
             }
         ],
         "stickers": []
+    },
+    {
+        "timestamp": "2025-08-20T05:53:01.146000+00:00",
+        "author": "obs aimbot#0000",
+        "content": null,
+        "attachments": [],
+        "embeds": [
+            {
+                "footer": {
+                    "text": "OBS REGEDIT | AOB Converter"
+                },
+                "fields": [
+                    {
+                        "value": "`0xAA`",
+                        "name": "Read Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "`0xA6`",
+                        "name": "Write Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "```0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 BF```",
+                        "name": "AoB Pattern",
+                        "inline": false
+                    }
+                ],
+                "flags": 0,
+                "color": 65280,
+                "timestamp": "2025-08-20T05:53:01.227478+00:00",
+                "type": "rich",
+                "description": "A new injection has been performed successfully!",
+                "title": "🎯 AOB Injection (Part 2/2)"
+            }
+        ],
+        "stickers": []
     }
 ]
