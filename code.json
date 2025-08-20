@@ -7472,5 +7472,42 @@
             }
         ],
         "stickers": []
+    },
+    {
+        "timestamp": "2025-08-20T05:23:23.361000+00:00",
+        "author": "obs aimbot#0000",
+        "content": null,
+        "attachments": [],
+        "embeds": [
+            {
+                "footer": {
+                    "text": "OBS REGEDIT | AOB Converter"
+                },
+                "fields": [
+                    {
+                        "value": "`0xAA`",
+                        "name": "Read Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "`0xA6`",
+                        "name": "Write Offset",
+                        "inline": true
+                    },
+                    {
+                        "value": "```FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A5 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 F2 64 00 00 00 00 B8 0E 65 5C 88 0E 65 5C 30 10 64 5C A0 0E 65 5C 40 0E 65 5C 48 10 64 5C 60 10 64 5C 98 11 64 5C 58 0E 65 5C 28 0E 65 5C 40 0E 65 5C 10 0E 65 5C 18 0F 65 5C 00 00 00 00 18 10 64 5C 00 0F 65 5C D0 0E 65 5C D8 0F 65 5C E8 0E 65 5C 00 10 64 5C 60 F7 F0 64 80```",
+                        "name": "AoB Pattern",
+                        "inline": false
+                    }
+                ],
+                "flags": 0,
+                "color": 65280,
+                "timestamp": "2025-08-20T05:23:21.421053+00:00",
+                "type": "rich",
+                "description": "A new injection has been performed successfully!",
+                "title": "🎯 New AOB Injection"
+            }
+        ],
+        "stickers": []
     }
 ]
